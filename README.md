@@ -4,6 +4,10 @@
 ## Залежності
 ### Vue, Router, Vuex, babel, axios, esLint-standart, sass
 
+## Login Password
+admin@i.ua
+123456
+
 ## Store
 ###### Store поділений на 2 файли.
 
