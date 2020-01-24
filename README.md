@@ -1,5 +1,5 @@
 
-# Виконане тестове завдання для компанії wwwest.solutions
+# Тестове завдання для компанії wwwest.solutions
 
 ## Залежності
 ### Vue, Router, Vuex, babel, axios, esLint-standart, sass
