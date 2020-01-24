@@ -60,6 +60,7 @@ export default {
   },
   methods: {
     textClear () {
+      // Хук анімації, коли закінчується анімація очищається текст в alerts
       this.errorLogin.text = ''
     },
     loginValidate () {
@@ -99,6 +100,10 @@ export default {
   },
   watch: {
     $route (e) {
+      /*
+      якщо юзер знаходиться на сторінці Login і клікає на Profile
+      то спливає повідомлення що потрібно увійти для переходу
+      */
       if (this.$route.query['LoginError']) {
         this.urlText()
       }
