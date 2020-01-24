@@ -1,10 +1,8 @@
 
-# Залежності
-
-### Vue, Router, Vuex, babel, axios, esLint-standart, sass
-
-
 # Виконане тестове завдання для компанії wwwest.solutions
+
+## Залежності
+### Vue, Router, Vuex, babel, axios, esLint-standart, sass
 
 ## Store
 ###### Store поділений на 2 файли.
